@@ -78,6 +78,7 @@ education:
             - Latent representation for video data compression using 3D autoencoder.
             - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
             - Evaluating the prediction of liver diseases stages. 
+          
           Window to the brain: Towards a task-independent AI-predictor of dementia 
             - Audio data pre-processing (denoise and activity detection). 
             - Feature selection for high dimensional acoustic features. 
@@ -218,7 +219,7 @@ publications:
         authors: 
         conference:
 
-      - title: Fourier-Net: Fast Image Registration with Band-limited Deformation
+      - title: Fourier-Net Fast Image Registration with Band-limited Deformation
         link: "#"
         authors: Xi Jia, Joseph Bartlett, Wei Chen, Siyang Song, Tianyang Zhang, Xinxing Cheng, Wenqi Lu, Zhaowen Qiu, Jinming Duan
         conference: "Thirty-Seventh AAAI Conference on Artificial Intelligence"

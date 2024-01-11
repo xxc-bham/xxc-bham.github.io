@@ -1,0 +1,249 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: XINXING CHENG
+    tagline: PhD
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: xxc142@student.bham.ac.uk
+    phone: 07936138767
+    timezone: UK Timezone
+    # citizenship:
+    # website: blog.webjeda.com #do not add http://
+    linkedin: xxc65
+    # xing: alandoe
+    # github: sharu725
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Chinese
+          level: Native
+
+        - idiom: English
+          level: Fluent
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Snowboarding
+          link:
+
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Personal Profile
+    summary: |
+      I am a self-motivated, hard-working person who is passionate about 
+      the application of AI and data science. I always strive to achieve 
+      high standard solutions related to machine/deep learning techniques, 
+      game graphics, and computer vision.
+education:
+    title: Education
+    info:
+      - degree: PhD candidate in Computer Science
+        university: University of Birmingham
+        time: 2022 - 2026
+        details: |
+          Research interests: medical image translation and registration
+      - degree: MRes Biomedical Research in data science stream
+        university: Imperial College London
+        time: 2020 - 2021
+        details: |
+          Machine Learning and Image Processing in Liver Ultrasound Videos. 
+            - Data processing of CESMI ultrasound videos.
+            - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
+            - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
+            - Latent representation for video data compression using 3D autoencoder.
+            - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
+            - Evaluating the prediction of liver diseases stages. 
+
+          Window to the brain: Towards a task-independent AI-predictor of dementia 
+            - Audio data pre-processing (denoise and activity detection). 
+            - Feature selection for high dimensional acoustic features. 
+            - Segments levels feature representation for subjects encode.
+            - Performance evaluation with several ML models (SVM, RF, Catboost ...) 
+            - Spectrogram extraction and data augmentation. 
+            - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
+
+      - degree: MSc Artificial Intelligence with distinction class
+        university: University of Southampton
+        time: 2019 - 2020
+        details: |
+          Individual project: The application of deep learning on splicing sites perdition. 
+            - Data pre-processing on FASTA and GTF files. 
+            - CNN and dilated residual CNN for long sequence Modelling. 
+            - Sequence to vector representation on DNA using embedding. 
+            - LSTM model using the embedding data. 
+            - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
+
+      - degree: BSc (Hons) Computing Science with first class degree
+        university: Newcastle University (UK)
+        time: 2017 - 2019
+        details: |
+          Graphical Rendering of Real-time Dynamic Weather System 
+            - Compute shader for 3D noise textures generation. 
+            - Volumetric cloud rendering with the Raymarching approach. 
+            - Particles system for raindrops simulation. 
+            - Simulate rain splashes using normal mapping for lighting. 
+            - OpenGL and GLSL Shaders for GPU rendering. 
+            - Windows management using GLFW and IMGUI visualization for control panels.
+     
+experiences:
+    title: Experiences
+    info:
+      - role: Teaching Assistant
+        time: 2022 - Present
+        company: University of Birmingham
+        details: |
+            - Algorithms for Data Science
+            - Artificial Intelligence and Machine Learning
+            - Computer Vision and Imaging
+
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CV Builder
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
+
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at.
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title:: Traceable Diffusion Model for Medical Image Translation (Submittion)
+        link: "#"
+        authors: 
+        conference:
+
+      - title: Fourier-Net: Fast Image Registration with Band-limited Deformation
+        # link: "#"
+        authors: Xi Jia, Joseph Bartlett, Wei Chen, Siyang Song, Tianyang Zhang, Xinxing Cheng, Wenqi Lu, Zhaowen Qiu, Jinming Duan
+        conference: "Thirty-Seventh AAAI Conference on Artificial Intelligence"
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Programming: Python & Java & C & C++ & Python  
+        level: 80%
+
+      - name: Web Techs: PHP & Javascript & jQuery & HTML5 & CSS
+        level: 75%
+
+      - name: Game graphics: OpenGL & GLSL Shaders & Unity 
+        level: 70%
+
+      - name: Mobile development: Android 
+        level: 60%
+
+      - name: •	Machine learning framework: PyTorch & Scikit-Learn
+        level: 85%
+
+      - name: DL models: CNN & GAN & RNN & AE & Transformer & Embedding & Diffusion model
+        level: 90%
+      # - name: ML algorithms: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM 
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -66,6 +66,7 @@ education:
         time: 2022 - 2026
         details: |
           Research interests: medical image translation and registration
+      
       - degree: MRes Biomedical Research in data science stream
         university: Imperial College London
         time: 2020 - 2021
@@ -210,8 +211,8 @@ oss:
 publications:
     title: Publications
     intro: |
-    List
-  papers:
+      List of Publications
+    papers:
       - title: Traceable Diffusion Model for Medical Image Translation (Submittion)
         link: "#"
         authors: 
@@ -244,7 +245,7 @@ skills:
 
       - name: CNN & GAN & RNN & AE & Transformer & Embedding & Diffusion model (DL models)
         level: 90%
-      # - name: ML algorithms: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM 
+      - name: ML algorithms: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -166,48 +166,68 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
+      List of Projects
+    Projects:
+      - title: Machine Learning and Image Processing in Liver Ultrasound Videos. 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+            - Data processing of CESMI ultrasound videos.
+            - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
+            - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
+            - Latent representation for video data compression using 3D autoencoder.
+            - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
+            - Evaluating the prediction of liver diseases stages.  
 
-      - title: DevStudio
+      - title: Window to the brain ":" Towards a task-independent AI-predictor of dementia 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+            - Audio data pre-processing (denoise and activity detection). 
+            - Feature selection for high dimensional acoustic features. 
+            - Segments levels feature representation for subjects encode.
+            - Performance evaluation with several ML models (SVM, RF, Catboost ...) 
+            - Spectrogram extraction and data augmentation. 
+            - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
 
-      - title: Tempo
+      - title:  The application of deep learning on splicing sites perdition. 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+            - Data pre-processing on FASTA and GTF files. 
+            - CNN and dilated residual CNN for long sequence Modelling. 
+            - Sequence to vector representation on DNA using embedding. 
+            - LSTM model using the embedding data. 
+            - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
 
-      - title: Atom
+      - title: Graphical Rendering of Real-time Dynamic Weather System 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: |
+            - Compute shader for 3D noise textures generation. 
+            - Volumetric cloud rendering with the Raymarching approach. 
+            - Particles system for raindrops simulation. 
+            - Simulate rain splashes using normal mapping for lighting. 
+            - OpenGL and GLSL Shaders for GPU rendering. 
+            - Windows management using GLFW and IMGUI visualization for control panels.
+      
+      - title: Demo for my Unity Game
+        link: a769104646.github.io
+        tagline: |
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -247,6 +267,6 @@ skills:
       - name: CNN & GAN & RNN & AE & Transformer & Embedding & Diffusion model (DL models)
         level: 90%
       - name: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM (ML)
-
+        level: 90%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

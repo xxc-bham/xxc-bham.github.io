@@ -164,11 +164,11 @@ experiences:
 #             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Machine Learning and Image Processing in Liver Ultrasound Videos. 
+    title: Projects
     info:
-      - time: 2020 - 2021
+      - role: Machine Learning and Image Processing in Liver Ultrasound Videos
+        time: 2020 - 2021
         details: |
-          --
             - Data processing of CESMI ultrasound videos.
             - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
             - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
@@ -176,11 +176,9 @@ projects:
             - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
             - Evaluating the prediction of liver diseases stages.  
 
-    title: Window to the brain ":" Towards a task-independent AI-predictor of dementia 
-    info:
-      - time: 2020 - 2021
+      - role: Window to the brain ":" Towards a task-independent AI-predictor of dementia 
+        time: 2020 - 2021
         details: |
-          --
             - Audio data pre-processing (denoise and activity detection). 
             - Feature selection for high dimensional acoustic features. 
             - Segments levels feature representation for subjects encode.
@@ -188,22 +186,18 @@ projects:
             - Spectrogram extraction and data augmentation. 
             - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
 
-    title:  The application of deep learning on splicing sites perdition. 
-    info:
-      - time: 2019 - 2020
+      - role: The application of deep learning on splicing sites perdition. 
+        time: 2019 - 2020
         details: |
-          --
             - Data pre-processing on FASTA and GTF files. 
             - CNN and dilated residual CNN for long sequence Modelling. 
             - Sequence to vector representation on DNA using embedding. 
             - LSTM model using the embedding data. 
             - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
 
-    title: Graphical Rendering of Real-time Dynamic Weather System 
-    info:
-      - time: 2017 - 2019
+      - role: Graphical Rendering of Real-time Dynamic Weather System 
+        time: 2017 - 2019
         details: |
-          --
             - Compute shader for 3D noise textures generation. 
             - Volumetric cloud rendering with the Raymarching approach. 
             - Particles system for raindrops simulation. 
@@ -211,9 +205,8 @@ projects:
             - OpenGL and GLSL Shaders for GPU rendering. 
             - Windows management using GLFW and IMGUI visualization for control panels.
       
-    title: Demo for my Unity Game
-    info:
-      - link: a769104646.github.io
+      - role: Demo for my Unity Game
+        link: a769104646.github.io
 
 # oss:
 #     title: OSS Contributions

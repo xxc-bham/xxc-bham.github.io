@@ -246,7 +246,7 @@ skills:
 
       - name: CNN & GAN & RNN & AE & Transformer & Embedding & Diffusion model (DL models)
         level: 90%
-      - name: ML algorithms: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM 
+      - name: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM (ML)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

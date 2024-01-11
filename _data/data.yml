@@ -121,8 +121,13 @@ experiences:
             - Computer Vision and Imaging
 
 certifications:
+<<<<<<< HEAD
       title: Certifications
       list:
+=======
+#       title: Certifications
+#       list:
+>>>>>>> fb2ae8324be449172f8b78c5702188557e7f85ca
 #         - name: CV Builder
 #           start: 2020
 #           end: 2021

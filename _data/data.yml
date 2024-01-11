@@ -77,7 +77,6 @@ education:
             - Latent representation for video data compression using 3D autoencoder.
             - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
             - Evaluating the prediction of liver diseases stages. 
-
           Window to the brain: Towards a task-independent AI-predictor of dementia 
             - Audio data pre-processing (denoise and activity detection). 
             - Feature selection for high dimensional acoustic features. 
@@ -116,13 +115,14 @@ experiences:
         time: 2022 - Present
         company: University of Birmingham
         details: |
+          Teaching Assistant Module
             - Algorithms for Data Science
             - Artificial Intelligence and Machine Learning
             - Computer Vision and Imaging
 
-# certifications:
-#       title: Certifications
-#       list:
+certifications:
+      title: Certifications
+      list:
 #         - name: CV Builder
 #           start: 2020
 #           end: 2021
@@ -210,14 +210,15 @@ oss:
 publications:
     title: Publications
     intro: |
-    papers:
-      - title:: Traceable Diffusion Model for Medical Image Translation (Submittion)
+    
+  papers:
+      - title: Traceable Diffusion Model for Medical Image Translation (Submittion)
         link: "#"
         authors: 
         conference:
 
       - title: Fourier-Net: Fast Image Registration with Band-limited Deformation
-        # link: "#"
+        link: "#"
         authors: Xi Jia, Joseph Bartlett, Wei Chen, Siyang Song, Tianyang Zhang, Xinxing Cheng, Wenqi Lu, Zhaowen Qiu, Jinming Duan
         conference: "Thirty-Seventh AAAI Conference on Artificial Intelligence"
 

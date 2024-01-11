@@ -163,7 +163,7 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
+experiences:
     title: Projects
     info:
       - role: Machine Learning and Image Processing in Liver Ultrasound Videos
@@ -212,8 +212,7 @@ projects:
       - role: Demo for my Unity Game
         time: 2017 - 2019
         company: 
-        details:
-        link: a769104646.github.io
+        details: link a769104646.github.io
 
 # oss:
 #     title: OSS Contributions

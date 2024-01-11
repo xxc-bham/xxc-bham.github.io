@@ -16,19 +16,19 @@ sidebar:
     email: xxc142@student.bham.ac.uk
     phone: 07936138767
     timezone: UK Timezone
-    # citizenship:
-    # website: blog.webjeda.com #do not add http://
+    citizenship:
+    website: blog.webjeda.com #do not add http://
     linkedin: xxc65
-    # xing: alandoe
-    # github: sharu725
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -120,7 +120,7 @@ experiences:
             - Artificial Intelligence and Machine Learning
             - Computer Vision and Imaging
 
-# certifications:
+certifications:
 #       title: Certifications
 #       list:
 #         - name: CV Builder

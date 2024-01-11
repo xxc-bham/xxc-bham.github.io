@@ -16,19 +16,19 @@ sidebar:
     email: xxc142@student.bham.ac.uk
     phone: 07936138767
     timezone: UK Timezone
-    # citizenship:
-    # website: blog.webjeda.com #do not add http://
+    citizenship:
+    website: 
     linkedin: xxc65
-    # xing: alandoe
-    # github: sharu725
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+    xing: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
 
     languages:
       title: Languages
@@ -121,13 +121,8 @@ experiences:
             - Computer Vision and Imaging
 
 certifications:
-<<<<<<< HEAD
       title: Certifications
       list:
-=======
-#       title: Certifications
-#       list:
->>>>>>> fb2ae8324be449172f8b78c5702188557e7f85ca
 #         - name: CV Builder
 #           start: 2020
 #           end: 2021
@@ -215,7 +210,7 @@ oss:
 publications:
     title: Publications
     intro: |
-    
+    List
   papers:
       - title: Traceable Diffusion Model for Medical Image Translation (Submittion)
         link: "#"
@@ -232,22 +227,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Programming: Python & Java & C & C++ & Python  
+      - name: Python & Java & C & C++ & Python  
         level: 80%
 
-      - name: Web Techs: PHP & Javascript & jQuery & HTML5 & CSS
+      - name:  PHP & Javascript & jQuery & HTML5 & CSS (Web)
         level: 75%
 
-      - name: Game graphics: OpenGL & GLSL Shaders & Unity 
+      - name: OpenGL & GLSL Shaders & Unity (Game)
         level: 70%
 
-      - name: Mobile development: Android 
+      - name: Mobile development (Android)
         level: 60%
 
-      - name: •	Machine learning framework: PyTorch & Scikit-Learn
+      - name: PyTorch & Scikit-Learn (Machine learning framework)
         level: 85%
 
-      - name: DL models: CNN & GAN & RNN & AE & Transformer & Embedding & Diffusion model
+      - name: CNN & GAN & RNN & AE & Transformer & Embedding & Diffusion model (DL models)
         level: 90%
       # - name: ML algorithms: SVM, Linear/logistic Regression, LDA, RBF, KNN, KMeans, RF, Naïve Bayes, GB, SVD, PCA, tSNE, MDS, SOM 
 

@@ -70,45 +70,45 @@ education:
       - degree: MRes Biomedical Research in data science stream
         university: Imperial College London
         time: 2020 - 2021
-        details: |
-          Machine Learning and Image Processing in Liver Ultrasound Videos. 
-            - Data processing of CESMI ultrasound videos.
-            - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
-            - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
-            - Latent representation for video data compression using 3D autoencoder.
-            - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
-            - Evaluating the prediction of liver diseases stages. 
+        # details: |
+        #   Machine Learning and Image Processing in Liver Ultrasound Videos. 
+        #     - Data processing of CESMI ultrasound videos.
+        #     - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
+        #     - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
+        #     - Latent representation for video data compression using 3D autoencoder.
+        #     - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
+        #     - Evaluating the prediction of liver diseases stages. 
           
-          Window to the brain: Towards a task-independent AI-predictor of dementia 
-            - Audio data pre-processing (denoise and activity detection). 
-            - Feature selection for high dimensional acoustic features. 
-            - Segments levels feature representation for subjects encode.
-            - Performance evaluation with several ML models (SVM, RF, Catboost ...) 
-            - Spectrogram extraction and data augmentation. 
-            - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
+        #   Window to the brain: Towards a task-independent AI-predictor of dementia 
+        #     - Audio data pre-processing (denoise and activity detection). 
+        #     - Feature selection for high dimensional acoustic features. 
+        #     - Segments levels feature representation for subjects encode.
+        #     - Performance evaluation with several ML models (SVM, RF, Catboost ...) 
+        #     - Spectrogram extraction and data augmentation. 
+        #     - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
 
       - degree: MSc Artificial Intelligence with distinction class
         university: University of Southampton
         time: 2019 - 2020
-        details: |
-          Individual project: The application of deep learning on splicing sites perdition. 
-            - Data pre-processing on FASTA and GTF files. 
-            - CNN and dilated residual CNN for long sequence Modelling. 
-            - Sequence to vector representation on DNA using embedding. 
-            - LSTM model using the embedding data. 
-            - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
+        # details: |
+        #   Individual project: The application of deep learning on splicing sites perdition. 
+        #     - Data pre-processing on FASTA and GTF files. 
+        #     - CNN and dilated residual CNN for long sequence Modelling. 
+        #     - Sequence to vector representation on DNA using embedding. 
+        #     - LSTM model using the embedding data. 
+        #     - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
 
       - degree: BSc (Hons) Computing Science with first class degree
         university: Newcastle University (UK)
         time: 2017 - 2019
-        details: |
-          Graphical Rendering of Real-time Dynamic Weather System 
-            - Compute shader for 3D noise textures generation. 
-            - Volumetric cloud rendering with the Raymarching approach. 
-            - Particles system for raindrops simulation. 
-            - Simulate rain splashes using normal mapping for lighting. 
-            - OpenGL and GLSL Shaders for GPU rendering. 
-            - Windows management using GLFW and IMGUI visualization for control panels.
+        # details: |
+        #   Graphical Rendering of Real-time Dynamic Weather System 
+        #     - Compute shader for 3D noise textures generation. 
+        #     - Volumetric cloud rendering with the Raymarching approach. 
+        #     - Particles system for raindrops simulation. 
+        #     - Simulate rain splashes using normal mapping for lighting. 
+        #     - OpenGL and GLSL Shaders for GPU rendering. 
+        #     - Windows management using GLFW and IMGUI visualization for control panels.
      
 experiences:
     title: Experiences
@@ -122,9 +122,9 @@ experiences:
             - Artificial Intelligence and Machine Learning
             - Computer Vision and Imaging
 
-certifications:
-      title: Certifications
-      list:
+# certifications:
+#       title: Certifications
+#       list:
 #         - name: CV Builder
 #           start: 2020
 #           end: 2021
@@ -164,23 +164,19 @@ certifications:
 #             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      List of Projects
-    Projects:
-      - title: Machine Learning and Image Processing in Liver Ultrasound Videos. 
-        link: "#hook"
-        tagline: |
-            - Data processing of CESMI ultrasound videos.
-            - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
-            - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
-            - Latent representation for video data compression using 3D autoencoder.
-            - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
-            - Evaluating the prediction of liver diseases stages.  
+    title: Machine Learning and Image Processing in Liver Ultrasound Videos. 
+    info:
+      -  details: |
+          - Data processing of CESMI ultrasound videos.
+          - Transfer learning (ResNeXt50) + LSTM for CESMI ultrasound videos analysis. 
+          - Transfer learning R(2+1)D ResNet for CESMI ultrasound videos analysis.
+          - Latent representation for video data compression using 3D autoencoder.
+          - Two-stream (RGB + optical flows) fusion for spatiotemporal features modelling. 
+          - Evaluating the prediction of liver diseases stages.  
 
-      - title: Window to the brain ":" Towards a task-independent AI-predictor of dementia 
-        link: "#"
-        tagline: |
+    title: Window to the brain ":" Towards a task-independent AI-predictor of dementia 
+    info:
+      -  details: |
             - Audio data pre-processing (denoise and activity detection). 
             - Feature selection for high dimensional acoustic features. 
             - Segments levels feature representation for subjects encode.
@@ -188,18 +184,18 @@ projects:
             - Spectrogram extraction and data augmentation. 
             - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
 
-      - title:  The application of deep learning on splicing sites perdition. 
-        link: "#"
-        tagline: |
+    title:  The application of deep learning on splicing sites perdition. 
+    info:
+      -  details: |
             - Data pre-processing on FASTA and GTF files. 
             - CNN and dilated residual CNN for long sequence Modelling. 
             - Sequence to vector representation on DNA using embedding. 
             - LSTM model using the embedding data. 
             - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
 
-      - title: Graphical Rendering of Real-time Dynamic Weather System 
-        link: "#"
-        tagline: |
+    title: Graphical Rendering of Real-time Dynamic Weather System 
+    info:
+      -  details: |
             - Compute shader for 3D noise textures generation. 
             - Volumetric cloud rendering with the Raymarching approach. 
             - Particles system for raindrops simulation. 
@@ -207,9 +203,10 @@ projects:
             - OpenGL and GLSL Shaders for GPU rendering. 
             - Windows management using GLFW and IMGUI visualization for control panels.
       
-      - title: Demo for my Unity Game
-        link: a769104646.github.io
-        tagline: |
+    title: Demo for my Unity Game
+    info:
+      -  link: a769104646.github.io
+
 # oss:
 #     title: OSS Contributions
 #     intro: >

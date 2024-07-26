@@ -27,7 +27,9 @@
     <div class="details">
       {{ experience.details | markdownify }}
     </div><!--//details-->
-    {% endif %}
+    {% endif interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% elseif %}
 
   </div><!--//item-->
   {% endfor %}

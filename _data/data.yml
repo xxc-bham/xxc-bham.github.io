@@ -235,7 +235,7 @@ publications:
     intro: |
       List of Publications
     papers:
-      - title: <WiNet: Wavelet-based Incremental Learning for Efficient Medical Image Registration>
+      - title: <WiNet\: Wavelet-based Incremental Learning for Efficient Medical Image Registration>
         link: "#"
         authors: Xinxing Cheng, Xi Jia, Wenqi Lu, Qiufu Li, Linlin Shen, Alexander Krull, Jinming Duan
         conference: "27th International Conference on Medical Image Computing and Computer Assisted Intervention"
@@ -247,7 +247,7 @@ publications:
         link: "#"
         authors: Tianyang Zhang, Shaoming Zheng, Jun Cheng, Xi Jia, Joseph Bartlett, Xinxing Cheng, Huazhu Fu, Zhaowen Qiu, Jiang Liu, Jinming Duan
         conference: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-      - title: <Fourier-Net: Fast Image Registration with Band-limited Deformation>
+      - title: <Fourier-Net\: Fast Image Registration with Band-limited Deformation>
         link: "#"
         authors: Xi Jia, Joseph Bartlett, Wei Chen, Siyang Song, Tianyang Zhang, Xinxing Cheng, Wenqi Lu, Zhaowen Qiu, Jinming Duan
         conference: "Thirty-Seventh AAAI Conference on Artificial Intelligence"

@@ -121,6 +121,7 @@ experiences:
             - Algorithms for Data Science
             - Artificial Intelligence and Machine Learning
             - Computer Vision and Imaging
+            - Object Oriented Programming
 
 # certifications:
 #       title: Certifications
@@ -208,7 +209,7 @@ experiences:
       - role: Demo for my Unity Game
         time: 2017 - 2019
         company: 
-        details: link a769104646.github.io
+        details: link x-xc.github.io
 
 # oss:
 #     title: OSS Contributions
@@ -234,11 +235,18 @@ publications:
     intro: |
       List of Publications
     papers:
+      - title: WiNet: Wavelet-based Incremental Learning for Efficient Medical Image Registration
+        link: "#"
+        authors: Xinxing Cheng, Xi Jia, Wenqi Lu, Qiufu Li, Linlin Shen, Alexander Krull, Jinming Duan
+        conference: "27th International Conference on Medical Image Computing and Computer Assisted Intervention"
       - title: Traceable Diffusion Model for Medical Image Translation (Submission)
         link: "#"
         authors: 
         conference:
-
+      - title: Structure and Intensity Unbiased Translation for 2D Medical Image Segmentation
+        link: "#"
+        authors: Tianyang Zhang, Shaoming Zheng, Jun Cheng, Xi Jia, Joseph Bartlett, Xinxing Cheng, Huazhu Fu, Zhaowen Qiu, Jiang Liu, Jinming Duan
+        journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
       - title: Fourier-Net Fast Image Registration with Band-limited Deformation
         link: "#"
         authors: Xi Jia, Joseph Bartlett, Wei Chen, Siyang Song, Tianyang Zhang, Xinxing Cheng, Wenqi Lu, Zhaowen Qiu, Jinming Duan

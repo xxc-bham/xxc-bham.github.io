@@ -246,7 +246,7 @@ publications:
       - title: Structure and Intensity Unbiased Translation for 2D Medical Image Segmentation
         link: "#"
         authors: Tianyang Zhang, Shaoming Zheng, Jun Cheng, Xi Jia, Joseph Bartlett, Xinxing Cheng, Huazhu Fu, Zhaowen Qiu, Jiang Liu, Jinming Duan
-        journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        conference: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
       - title: Fourier-Net Fast Image Registration with Band-limited Deformation
         link: "#"
         authors: Xi Jia, Joseph Bartlett, Wei Chen, Siyang Song, Tianyang Zhang, Xinxing Cheng, Wenqi Lu, Zhaowen Qiu, Jinming Duan

@@ -188,7 +188,7 @@ experiences:
             - Spectrogram extraction and data augmentation. 
             - Deep learning for audio analysis using ConvLSTM and Vision Transformer models. 
       - role: The application of deep learning on splicing sites perdition. 
-        time: 2019 - 2020
+        time: 2020 - 2020
         company: 
         details: |
             - Data pre-processing on FASTA and GTF files. 
@@ -197,7 +197,7 @@ experiences:
             - LSTM model using the embedding data. 
             - Evaluating the prediction of DNA splicing sites and model refine with continuous learning. 
       - role: Graphical Rendering of Real-time Dynamic Weather System 
-        time: 2017 - 2019
+        time: 2019 - 2019
         company: 
         details: |
             - Compute shader for 3D noise textures generation. 
@@ -207,7 +207,7 @@ experiences:
             - OpenGL and GLSL Shaders for GPU rendering. 
             - Windows management using GLFW and IMGUI visualization for control panels.
       - role: Demo for my Unity Game
-        time: 2017 - 2019
+        time: 
         company: 
         details: 
         link: x-xc.github.io
